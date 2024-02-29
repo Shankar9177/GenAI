@@ -1,5 +1,4 @@
 import streamlit as st
-
 def generate_completion(user_input):
     # This is a placeholder function for text generation
     # Replace this function with your preferred text generation method
